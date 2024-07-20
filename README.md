@@ -27,12 +27,20 @@ Sharing updates about myself on [LinkedIn](https://www.linkedin.com/in/shabbirzi
 </details>
 
 <details>
-<summary>Some basic Git commands</summary>
+<summary>Some basic useful Git commands</summary>
 
   ```
+git config --list; git config --global user.name "xxxx";
+git init
+git clone
+git check -b <newbranch>
+git add .
 git status
-git add
-git commit
+git commit -m "message"
+git push; git push <remote> <branch>; git push --delete <remote> <branch>;
+git show
+git branch -d <newbranch>
+
 ```
 
 </details>
