@@ -48,11 +48,17 @@ git branch -d <newbranch>
 
 #### GitHub Resources
 
+[Choose an Open Source License](https://choosealicense.com/)
+
+[Create Useful .gitignore Files For Your Project](https://www.toptal.com/developers/gitignore)
+
 [GitHub Intro Repository Course](https://github.com/skills/introduction-to-github)
 
 [GitHub for Beginners Playlist](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f)
 
 [GitHub Foundations Learning Path](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+
+[What is Git? Our beginner’s guide to version control](https://github.blog/2024-05-27-what-is-git-our-beginners-guide-to-version-control/?utm_source=youtube&utm_medium=video&utm_campaign=Sprint1)
 
 [GitHub Actions](https://docs.github.com/en/actions)
 
