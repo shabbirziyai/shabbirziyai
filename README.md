@@ -1,9 +1,13 @@
-### Hi 👋 I am Shabbir !
+# Hi 👋 I am Shabbir !
 -----------------------------------------------------------------------------
 
 I am a Computer Science Engineer who currently works as a Test Lead @TechMahindra Ltd.
 
 **You can find me on the web 🌎:**
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning GitHub
+- 🤔 I’m looking for help with "On how to transition from Testing to DevOps"
+- 📫 How to reach me: shabbir.ziyai.17@gmail.com
 
 Sharing updates about myself on [LinkedIn](https://www.linkedin.com/in/shabbirziyai/) 📖
 
