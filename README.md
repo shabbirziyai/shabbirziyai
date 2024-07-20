@@ -38,7 +38,30 @@ git commit
 </details>
 
 
+#### GitHub Resources
+
+[GitHub Intro Repository Course](https://github.com/skills/introduction-to-github)
+
+[GitHub for Beginners Playlist](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f)
+
+[GitHub Foundations Learning Path](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+
+[GitHub Actions](https://docs.github.com/en/actions)
+
+[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+
+[Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
+[Quickstart for writing on GitHub](
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Communicate Using Markdown GitHub Course](https://github.com/skills/communicate-using-markdown)
+
+[Creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+
+[Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 
 
 -----------------------------------------------------------------------------
