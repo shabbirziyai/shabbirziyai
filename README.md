@@ -40,6 +40,9 @@ git commit -m "message"
 git push; git push <remote> <branch>; git push --delete <remote> <branch>;
 git show
 git branch -d <newbranch>
+git branch -M main
+git remote add origin <remote-repo-url>
+git push -u origin main
 
 ```
 
