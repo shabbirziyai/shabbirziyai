@@ -30,19 +30,24 @@ Sharing updates about myself on [LinkedIn](https://www.linkedin.com/in/shabbirzi
 <summary>Some basic useful Git commands</summary>
 
   ```
-git config --list; git config --global user.name "xxxx";
-git init
-git clone
-git check -b <newbranch>
-git add .
-git status
-git commit -m "message"
-git push; git push <remote> <branch>; git push --delete <remote> <branch>;
-git show
-git branch -d <newbranch>
-git branch -M main
-git remote add origin <remote-repo-url>
-git push -u origin main
+git --version (To see installed git version)
+where.exe git (To see where git exe is installed)
+git config --list (To see all parameters/variables currently set)
+git config --global user.name "xxxx" (To see global username)
+git init (Initial a folder as a git repo)
+git clone (Clone an existing remote git repo)
+git check -b <newbranch> (To create a new branch from main/master and switch to it)
+git add . (Add staged changes/files)
+git status (Check status of changed files)
+git commit -m "message" (Commit staged changes)
+git push (Push local committed chanages to remote repo)
+git push <remote> <branch> (Push local committed newbranch to remote repo)
+git push --delete <remote> <branch> (Delete branch from remote repo)
+git show (Show list of all commits in a repo)
+git branch -d <newbranch> (Delete branch in local repo)
+git branch -M main (Set main branch)
+git remote add origin <remote-repo-url> (Set a local repo to point to a remote repo)
+git push -u origin main (Push local changes to remote repo)
 
 ```
 
